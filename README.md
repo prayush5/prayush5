@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Prayush, aspiring software based in Nepal.
+I'm Prayush, aspiring software engineer based in Nepal.
 
 I mostly work on backend stuff - Java, Spring Boot, Docker, and a bit of frontend on Angular.
 
