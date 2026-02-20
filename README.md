@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**prayush5/prayush5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prayush, aspiring software based in Nepal.
 
-Here are some ideas to get you started:
+I mostly work on backend stuff - Java, Spring Boot, Docker, and a bit of frontend on Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Tools and Tech
+  - Java, Spring Boot, Angular, Spring Security, Spring Data JPA
+  - PostgreSQL/ MySQL
+  - Maven, Docker, JUnit & Mockito
+  - RESTful APIs, MVC Architecture, AWS
+
+## A Bit About Me
+- 🎬 Enjoy horror and mystery films  
+- 🏍️ Passionate about motorcycles and riding  
+- 🛠️ I build things that are simple, practical, and easy to understand
