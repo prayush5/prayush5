@@ -11,6 +11,6 @@ I mostly work on backend stuff - Java, Spring Boot, Docker, and a bit of fronten
   - RESTful APIs, MVC Architecture, AWS
 
 ## A Bit About Me
-- 🎬 Enjoy horror and mystery films  
+- 🎬 Enjoy horror and mystery movies  
 - 🏍️ Passionate about motorcycles and riding  
 - 🛠️ I build things that are simple, practical, and easy to understand
