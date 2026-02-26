@@ -2,7 +2,7 @@
 
 I'm Prayush, aspiring software engineer based in Nepal.
 
-I mostly work on backend stuff - Java, Spring Boot, Docker, and a bit of frontend on Angular.
+I mostly work on backend stuff - Java, Spring Boot, Docker, and a bit of frontend on Angular/React.
 
 ## 🔗 Tools and Tech
   - Java, Spring Boot, Angular, Spring Security, Spring Data JPA
