@@ -8,7 +8,7 @@ I mostly work on backend stuff - Spring Boot, FastAPI and a bit of frontend on R
 ## 🔗 Tools and Tech
   Languages: Python • TypeScript • Java • SQL
 
-  Backend: FastAPI • Node.js • Express.js • Spring Boot
+  Backend: FastAPI • Node.js • Spring Boot
   
   Frontend: React • Angular • Material UI
   
@@ -16,7 +16,7 @@ I mostly work on backend stuff - Spring Boot, FastAPI and a bit of frontend on R
   
   AI/LLM: LLM APIs • RAG • LlamaIndex • Embeddings • Hybrid Search • Reranking • DeepEval • Langfuse
   
-  Tools: Docker • Git • GitHub • Postman • Alembic • Cypress
+  Tools: Docker • Git • Postman • Alembic • Cypress
 
 ## A Bit About Me
 - 🎬 Enjoy horror and mystery movies  
