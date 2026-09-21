@@ -18,11 +18,6 @@ I mostly work on backend stuff - Spring Boot, FastAPI and a bit of frontend on R
   
   Tools: Docker • Git • Postman • Alembic • Cypress
 
-## A Bit About Me
-- 🎬 Enjoy horror and mystery movies  
-- 🏍️ Passionate about motorcycles and riding  
-- 🛠️ I build things that are simple, practical, and easy to understand
-
 
 
 
